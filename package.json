@@ -1,0 +1,8 @@
+{
+  "name": "life-science",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:villarama37/life-science.git",
+  "author": "david.villarama <david.villarama@science37.com>",
+  "license": "MIT"
+}
